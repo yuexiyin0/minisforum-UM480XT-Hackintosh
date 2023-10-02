@@ -1,0 +1,1 @@
+igfxonln=1 -hbfx-disable-patch-pci
