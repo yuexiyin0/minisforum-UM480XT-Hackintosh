@@ -27,3 +27,7 @@
 4. 删掉不必要的lightsensor和电池组件
 
 手机敲的，大佬勿喷
+![截屏2023-10-02 下午6 58 54](https://github.com/yuexiyin0/minisforum-UM480XT-Hackintosh/assets/82527260/b67375f1-c75d-41fc-b2a6-4c484005bce5)
+![截屏2023-10-02 下午6 58 10](https://github.com/yuexiyin0/minisforum-UM480XT-Hackintosh/assets/82527260/026fcab1-d55f-4f8d-b6dd-b12ed0fa048b)
+
+
